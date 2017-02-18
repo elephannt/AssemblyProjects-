@@ -1,3 +1,11 @@
+# Title: Suma de dos numeros            					Filename: p2-sumain.asm
+# Author: Lopez Valenzuela Marco Antonio					Date: 18 / Feb / 2017
+# Description: Suma de dos numeros
+# Input: -
+# Output: Suma.
+
+
+
 section	.text
    global _start    ;must be declared for using gcc
 	

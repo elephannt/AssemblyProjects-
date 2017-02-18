@@ -1,3 +1,10 @@
+# Title: Suma inputs          					Filename: p3-suma.asm
+# Author: Lopez Valenzuela Marco Antonio					Date: 18 / Feb / 2017
+# Description: Sumar
+# Input: -
+# Output: Sumar.
+
+
 SYS_EXIT  equ 1
 SYS_READ  equ 3
 SYS_WRITE equ 4
